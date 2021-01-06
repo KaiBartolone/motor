@@ -1,0 +1,5 @@
+read encoder data
+decide whether to fix library or write new one for jetson gpio
+	if old library devise method for gpio cleanup
+
+
